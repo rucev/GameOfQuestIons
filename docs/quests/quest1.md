@@ -71,6 +71,12 @@ A veces lo más básico resulta lo más complejo... si no se te ocurren pregunta
 3. Arrascarse
 4. Haiga
 
+**¿Cuál es el gentilicio de Aguascalientes?**
+1. Calentorros
+2. Aguacalidenses
+3. Hidrocálidos
+4. Aguacalurosos
+
 ¿Qué? ¿Cuáles son las respuestas correctas? ¿Qué gracia tendría ponerlo aquí?... *aunque en el código te va a hacer falta así que toca mirar google*
 
 ## Recursos extra:
