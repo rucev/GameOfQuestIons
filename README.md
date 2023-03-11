@@ -1,6 +1,6 @@
 # GameOfQuestIons
 
-1.	Imprimir las preguntas por consola, recibir la letra de respuesta y devolver un mensaje.
+*	[Primera Quest](./docs/quests/quest1.md).
 2.	Añadir control de errores ante inputs no validos
 3.	Añadir resultado/contador respuestas correctas.
 4.	Añadir un menú de inicio con dos opciones: jugar, ver las reglas, salir. Tener control de inputs again.
