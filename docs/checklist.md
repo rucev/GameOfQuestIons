@@ -1,0 +1,17 @@
+# Checklist de buenas prácticas: clean code: (la idea es que el código sea lo más fácil de entender y legible posible!)
+- [ ] naming descriptivo y en inglés
+- [ ] no usar en el nombre unicamente el tipo de valor que es (array, object, etc)
+- [ ] uso de let/const (var esta pasado de moda). Y siempre que se pueda const por encima de let
+- [ ] las funciones deben empezar por un verbo (posteriormente puede incluir nombres: setName, getQuestions, etc)
+- [ ] Evitar abreviaturas en el naming
+- [ ] usar arrow functions (en lugar de definir las funciones con function)
+- [ ] no declarar una función dentro de otra, para eso es mejor usar clases
+- [ ] dividirlo todo en funciones chiquitas y luego llamar una única que lo ejecute todo si es el caso
+- [ ] separar las funciones con espacios
+- [ ] evitar el uso de loose equality (==)
+- [ ] el break dentro del if es mala practica (mejor usar un return si eso)
+- [ ] código excesivamente indentado: si ves que se va todo muy a la derecha es mejor romperlo en funciones o plantearlo de otra manera.
+- [ ] en una función, intentar que, si hay más de un return, devuelva siempre el mismo tipo de variable
+- [ ] más líneas de código no significan mejor código (aunque Elon Musk opine lo contrario…)
+- [ ] Los comentarios son un arma de doble filo (ver comentarios)
+- [ ] en html evitar el uso de id (mucho mejor usar class)
