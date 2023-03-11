@@ -4,6 +4,7 @@
 
 TODO: Redactar idea.
 
+TODO: Recomendar fork para seguir cada reto y hacerle checks a la checklist ^^
 
 ## Lista y acceso a todas las quests
 
