@@ -47,7 +47,7 @@ Luego añadé más preguntas y analiza cuanto has tenido que cambiar en el códi
 1. Has cambiado unicamente la variable que almacenaba las preguntas y todo funciona. Eso es buena señal de cara a mantener el código a medida que vaya creciendo.
 2. Has tenido que modificar más partes del código además de la variable que almacena las preguntas, como por ejemplo la función encargada de printearlas en consola.
 
-⋅⋅⋅Si te pasa lo segundo planteate la opción de hacerle un refactor hasta llegar al punto en que pase lo primero. Este es solo el primer paso de un proyecto más grande y todo lo que vaya a ahorrar trabajo en el futuro es buena idea. 
+Si te pasa lo segundo planteate la opción de hacerle un refactor hasta llegar al punto en que pase lo primero. Este es solo el primer paso de un proyecto más grande y todo lo que vaya a ahorrar trabajo en el futuro es buena idea. 
 
 ### Ejemplos de preguntas
 
@@ -74,7 +74,10 @@ A veces lo más básico resulta lo más complejo... si no se te ocurren pregunta
 ¿Qué? ¿Cuáles son las respuestas correctas? ¿Qué gracia tendría ponerlo aquí?... *aunque en el código te va a hacer falta así que toca mirar google*
 
 ## Recursos extra:
-- Ten siempre a mano la [checklist](../checklist.md) de buenas prácticas ^^
-- Si estás trabajando con tests echa un vistazo a [este repo](https://github.com/Marvalero/workshop-introduccion-al-testeo-en-javascript) y [este workshop](https://www.linkedin.com/posts/maria-valero-campa%C3%B1a_javascript-testing-escribirtests-activity-7034491159649394688-YbIi?utm_source=share&utm_medium=member_desktop)
-- Ideas de cómo hacer un bucle mientras pides input al usuario en [aquí](https://github.com/rucev/LearningProjects/tree/main/JavaScript/PromisesMenu)
-- Los muchos [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) de un array en JS.
+- Ten siempre a mano la [checklist](../checklist.md) de buenas prácticas.
+- Si estás trabajando con tests echa un vistazo a [este repo](https://github.com/Marvalero/workshop-introduccion-al-testeo-en-javascript) y [este workshop](https://www.linkedin.com/posts/maria-valero-campa%C3%B1a_javascript-testing-escribirtests-activity-7034491159649394688-YbIi?utm_source=share&utm_medium=member_desktop).
+- Ideas de cómo hacer un bucle mientras pides input al usuario en [aquí](https://github.com/rucev/LearningProjects/tree/main/JavaScript/PromisesMenu).
+- Atrevéte a experimentar con los [operadores ternarios](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) en lugar de if/else demasiado cortos.
+
+## ¿Todo listo para la siguiente quest?
+[Pulsa aquí ^^](./quest2.md)
