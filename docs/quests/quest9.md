@@ -19,19 +19,19 @@ En pocas palabras:
 
 Aquí depende de tu creatividad pero te dejo algunas ideas de que comodines puedes añadir:
 
-#### 50% de respuestas:
+#### 1. 50% de respuestas:
 
 Se eliminan la mitad de las respuestas y solo queda la correcta y otra más elegida aleatoriamente.
 
-#### Tiempo ilimitado:
+#### 2. Tiempo ilimitado:
 
 Cuando se usa el tiempo se pausa durante lo que dure esa pregunta. Así tienes tiempo de buscar en google.
 
-#### Ganar una vida:
+#### 3. Ganar una vida:
 
 ¿Sabes con un 100% de fiabilidad la respuesta de esta pregunta? Usa este comodín para ganar una vida al contestar de forma correcta.
 
-#### Respuesta correcta:
+#### 4. Respuesta correcta:
 
 Te elimina todas las respuestas excepto la correcta. Es un gran combo con el comodín anterior
 
