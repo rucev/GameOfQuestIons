@@ -14,17 +14,19 @@ Personalmente te recomiendo seguir los siguientes pasos:
 
 ### 1. Haz fork de este repositorio
 
+![fork](https://user-images.githubusercontent.com/112476868/224549293-3fa536fa-dd74-4685-b2ba-b0eb8b2ed740.png)
+
 Al hacerlo, se añadirá a tu github y podrás acceder a él sin problemas.
 
 ### 2. Manten el repo actualizado
 
 Hazte pull cuando veas que he añadido o modificado alguna quest para tener la información totalmente al día
 
-### Crea una carpeta en el repo a la que ir añadiendo tu solución
+### 3. Crea una carpeta en el repo a la que ir añadiendo tu solución
 
 La idea de este repo no es que todas creemos algo conjunto, si no que con la misma base desarrollemos cada una nuestro proyecto. Por eso os recomiendo trabajar en una carpeta en la que ir metiendo vuestro código, para evitar conflictos si hacéis pull del repo principal en el que yo iré metiendo mis cosillas.
 
-#### Copiad la checklist cada vez que hagais una quest
+### 4. Copiad la checklist cada vez que hagais una quest
 
 He añadido una bonita [checklist](./docs/checklist.md) de buenas prácticas. Mi otra recomendación es que la copiéis en la carpeta en la que estáis trabajando y, por cada quest, comprobéis a qué le podéis hacer *check*. Puestas a practicar, hagámoslo de forma elegante.
 
@@ -40,7 +42,9 @@ He añadido una bonita [checklist](./docs/checklist.md) de buenas prácticas. Mi
 8.	[Octava Quest >>](./docs/quests/quest8.md) 
 9.  [Novena Quest >>](./docs/quests/quest9.md)
 
+
 **Las siguientes quests estarán disponibles en abril**
+
 10. [Décima Quest >>](./docs/quests/quest10.md)
 11.	[Undécima Quest >>](./docs/quests/quest11.md)
 12.	[Duodécima Quest >>](./docs/quests/quest12.md)
@@ -49,8 +53,8 @@ He añadido una bonita [checklist](./docs/checklist.md) de buenas prácticas. Mi
 15.	[Decimoquinta Quest >>](./docs/quests/quest15.md)
 16.	[Decimosexta Quest >>](./docs/quests/quest16.md)
 17.	[Decimoséptima Quest >>](./docs/quests/quest17.md)
-18.	[Decimoctava Quest >>]()(./docs/quests/quest18.md)
-19.	[Decimonovena Quest >>]()(./docs/quests/quest19.md)
+18.	[Decimoctava Quest >>](./docs/quests/quest18.md)
+19.	[Decimonovena Quest >>](./docs/quests/quest19.md)
 20. [Vigésima Quest >>](./docs/quests/quest20.md)
 *	[Quests Extras >>](./docs/quests/extraQuests.md)
 
