@@ -22,7 +22,7 @@
 
 - [ ] El break dentro del if es mala practica (mejor usar un return si eso).
 
-- [ ] Código excesivamente indentado: si ves que se va todo muy a la derecha es mejor romperlo en funciones o plantearlo de otra manera.
+- [ ] Código excesivamente indentado: si ves que se va todo muy a la derecha es mejor romperlo en funciones o plantearlo de otra manera. Revisa esta [quest](./quests/quest2.md) para saber más.
 
 - [ ] En una función, intentar que, si hay más de un return, devuelva siempre el mismo tipo de variable.
 
