@@ -18,11 +18,13 @@ En pocas palabras:
 ## Consejos e ideas
 
 ### if anidados
+![indent-hadouken](https://user-images.githubusercontent.com/112476868/224546111-30ec5723-1d8a-4b2f-9596-95e8c6b57e16.jpg)
+
 Los if anidados son parte de la programación pero siempre que se pueda es mejor evitar que el código se vaya más a la derecha que... me voy a guardar las comparaciones políticas. Pero si ya has mirado la [checklist](../checklist.md) te habrás dado cuenta de que evitar dentro de lo posible los if anidados es buena práctica. ¿Por qué? Porque si se alargan mucho se vuelven algo ilegible y difícil de descifrar.
 
 Una buena manera de prevenirlo es usando [operadores ternarios](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) pero si son algo que no te intimida o no te llama la atención siempre puedes usar otra función para prevenir que tu código se vuelva de ultraderecha.
 
-Cojamos el ejemplo de la imagen e imaginemos que estamos comprobando si una contraseña es segura. Esta debera tener un número, una minúscula, una mayúscula y un mínimo de 6 caracteres. Para eso usariamos regex y el método test. Si no te apetece, no le des muchas vueltas y centrate solo en analizar el tema de los if anidados y si sientes curiosidad... [aquí tienes](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test) un poco de información sobre el tema.
+Cojamos un ejemplo parecido al de la imagen e imaginemos que estamos comprobando si una contraseña es segura. Esta debera tener un número, una minúscula, una mayúscula y un mínimo de 6 caracteres. Para eso usariamos regex y el método test. Si no te apetece, no le des muchas vueltas y centrate solo en analizar el tema de los if anidados y si sientes curiosidad... [aquí tienes](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test) un poco de información sobre el tema.
 
 Los requisitos de la contraseña en código serian:
 
@@ -149,5 +151,5 @@ Por lo tanto mi opción favorita es la cuarta. Al separarlo todo en funciones qu
 ## ¿Todo listo para la siguiente quest?
 [Pulsa aquí >>](./quest3.md)
 
-[<< Volver a la quest anterios](./quest1.md)
+[<< Volver a la quest anterior](./quest1.md)
 
