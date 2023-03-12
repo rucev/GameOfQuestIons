@@ -20,7 +20,7 @@ Al hacerlo, se añadirá a tu github y podrás acceder a él sin problemas.
 
 ### 2. Manten el repo actualizado
 
-Hazte pull cuando veas que he añadido o modificado alguna quest para tener la información totalmente al día
+Hazte pull cuando veas que he añadido o modificado alguna quest para tener la información totalmente al día.
 
 ### 3. Crea una carpeta en el repo a la que ir añadiendo tu solución
 
