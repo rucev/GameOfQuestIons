@@ -32,8 +32,8 @@ Los requisitos de la contraseña en código serian:
 
 string.length >= 6; //Si devuelve true es porque el string tiene la longitud deseada
 
-const hasNumbers = /\d/;   
-hasNumbers.test(string);  //Si devuelve true es porque el string tiene un número
+const includesNumbers = /\d/;   
+includesNumbers.test(string);  //Si devuelve true es porque el string tiene un número
 
 string.toLowerCase() !== string; //Si devuelve true es porque el string tiene una mayúscula
 
