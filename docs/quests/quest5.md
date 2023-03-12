@@ -1,0 +1,1 @@
+TODO: Redactar: Añadir categorías, por cada categoría saca una pregunta aleatoria.

@@ -1,0 +1,1 @@
+TODO: Redactar: Añadir comodines (por ejemplo: tiempo ilimitado, 50% de las preguntas, respuesta correcta automática)

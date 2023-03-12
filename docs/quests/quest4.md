@@ -1,0 +1,1 @@
+TODO: Redactar: Añadir un menú de inicio con dos opciones: jugar, ver las reglas, salir. Tener control de inputs again.

@@ -1,0 +1,1 @@
+TODO: Redactar:Para acabar el juego necesitas responder bien a una pregunta de cada categoría. Generar un bucle y que si ya ha recibido una respuesta valida no pregunte más sobre esa categoría en concreto.
