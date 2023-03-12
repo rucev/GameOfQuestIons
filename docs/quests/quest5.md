@@ -78,6 +78,6 @@ Pero siempre le puedes dar tu toque personal. ¿Eres muy fan de nintendo? Pues t
 - Ideas de cómo hacer un bucle mientras pides input al usuario en [aquí](https://github.com/rucev/LearningProjects/tree/main/JavaScript/PromisesMenu).
 
 ## ¿Todo listo para la siguiente quest?
-[Pulsa aquí >>](./quest5.md)
+[Pulsa aquí >>](./quest6.md)
 
-[<< Volver a la quest anterior](./quest3.md)
+[<< Volver a la quest anterior](./quest4.md)
