@@ -86,4 +86,6 @@ A veces lo más básico resulta lo más complejo... si no se te ocurren pregunta
 - Atrevéte a experimentar con los [operadores ternarios](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator) en lugar de if/else demasiado cortos.
 
 ## ¿Todo listo para la siguiente quest?
-[Pulsa aquí ^^](./quest2.md)
+[Pulsa aquí >>](./quest2.md)
+
+[<< Volver al README principal](../../README.md)
