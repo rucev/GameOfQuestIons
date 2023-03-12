@@ -1,4 +1,4 @@
-# Cuarta Quest
+# Quinta Quest
 
 Ha llegado el momento de complicar un poco la lógica del juego. Ahora mismo pregunta todas las preguntas de una lista así, sin más. Pero después de esta quest el programa va a tener categorías y nos hará una única pregunta aleatoria de cada categoría.
 
@@ -75,7 +75,7 @@ Pero siempre le puedes dar tu toque personal. ¿Eres muy fan de nintendo? Pues t
 ## Recursos extra:
 - Ten siempre a mano la [checklist](../checklist.md) de buenas prácticas.
 - Si estás trabajando con tests echa un vistazo a [este repo](https://github.com/Marvalero/workshop-introduccion-al-testeo-en-javascript) y [este workshop](https://www.linkedin.com/posts/maria-valero-campa%C3%B1a_javascript-testing-escribirtests-activity-7034491159649394688-YbIi?utm_source=share&utm_medium=member_desktop).
-- Ideas de cómo hacer un bucle mientras pides input al usuario en [aquí](https://github.com/rucev/LearningProjects/tree/main/JavaScript/PromisesMenu).
+- Ten en cuenta los muchos [methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) de un array en JS.
 
 ## ¿Todo listo para la siguiente quest?
 [Pulsa aquí >>](./quest6.md)
