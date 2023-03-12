@@ -5,12 +5,13 @@ Ha llegado el momento de complicar un poco la lógica del juego. Ahora mismo pre
 En pocas palabras:
 * Añade nuevas listas de preguntas separadas por categoría.
 * Elige aleatoriamente una pregunta por cada categoría.
+* Si te sientes pro antes de la pregunta puedes incluir un mensaje que avise de a qué categoría pertenece.
 * Termina el juego y da el feebdack en base a este nuevo diseño de partida.
 
 ## Objetivos
 
 1. Añadir distintas categorías con múltiples preguntas.
-2. Crear una función que seleccione una de esas preguntas aleatoriamente
+2. Crear una función que seleccione una de esas preguntas aleatoriamente.
 
 ## Consejos e ideas
 
