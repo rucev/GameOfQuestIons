@@ -2,7 +2,7 @@
 
 ## Historia
 
-Seguramente has jugado al trivial, o al triviados, o has visto en algún momento algún concurso tipo *¿Quién quiere ser millonario?*. Pues aquí hay una propuesta para hacer un juego de este tipo pero con tus preguntas, tu toque personal y tu código.
+Seguramente has jugado al *trivial*, o al *triviados*, o has visto en algún momento algún concurso tipo *¿Quién quiere ser millonario?*. Pues aquí hay una propuesta para hacer un juego de este tipo pero con tus preguntas, tu toque personal y tu código.
 
 La idea de esta pequeña aventura de desarrollo esta dividida en quests (misiones). Cada una de ellas tiene una serie de objetivos para empezar desde la nada y acabar con nuestro propio Game of **Quest***Ions* (¿has visto lo qué he hecho aquí?).
 
@@ -66,3 +66,10 @@ He añadido una bonita [checklist](./docs/checklist.md) de buenas prácticas. Mi
 * Algo de documentación sobre el uso de los [comentarios](./docs/comentarios.md).
 
 * Cositas extra sobre como usar Jest para hacer tests y practicar TDD en [este repo](https://github.com/Marvalero/workshop-introduccion-al-testeo-en-javascript) y [este workshop](https://www.linkedin.com/posts/maria-valero-campa%C3%B1a_javascript-testing-escribirtests-activity-7034491159649394688-YbIi?utm_source=share&utm_medium=member_desktop).
+
+
+## ¿Tienes propuestas?
+
+Si se te ocurré algun recurso extra, consejo que meter en alguna quest, práctica que añadir al checklist... incluso quests intermedias que añadir entre otras dos si el salto lógico es demasiado fuerte... ponte en contacto conmigo o incluso hazme una pull request con tus propuestas.
+
+Cualquier idea para mejorar este proyecto es bienvenida ^^
