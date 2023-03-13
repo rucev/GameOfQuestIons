@@ -20,7 +20,7 @@ En pocas palabras:
 ## Recursos extra:
 - Ten siempre a mano la [checklist](../checklist.md) de buenas prácticas.
 - Si estás trabajando con tests echa un vistazo a [este repo](https://github.com/Marvalero/workshop-introduccion-al-testeo-en-javascript) y [este workshop](https://www.linkedin.com/posts/maria-valero-campa%C3%B1a_javascript-testing-escribirtests-activity-7034491159649394688-YbIi?utm_source=share&utm_medium=member_desktop).
-- Ideas de cómo hacer un bucle mientras pides input al usuario en [aquí](https://github.com/rucev/LearningProjects/tree/main/JavaScript/PromisesMenu).
+- Ideas de cómo hacer un bucle mientras pides input al usuario en [aquí](https://github.com/rucev/promises-menu).
 
 ## ¿Todo listo para la siguiente quest?
 [Pulsa aquí >>](./quest5.md)
